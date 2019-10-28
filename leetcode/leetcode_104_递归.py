@@ -1,4 +1,4 @@
-# python2 递归解题思路
+# python2 递归解题思路 -- 深度优先搜索
 class treeNode(object):
         def __init__(self, x):
                 self.val = x;
